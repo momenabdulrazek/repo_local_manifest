@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<remote name="momen" fetch="https://github.com/momenabdulrazek/" /
+<remote name="momen" fetch="https://github.com/momenabdulrazek/" />
 <remote name="cr" fetch="https://github.com/crdroidandroid/" />
 <remote name="pro" fetch="https://github.com/dogpoopy/" />
 <remote name="vend" fetch="https://gitlab.com/crdroidandroid/" />
