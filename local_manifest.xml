@@ -9,7 +9,7 @@
    <project path="device/xiaomi/sm8150-common" remote="momen" name="android_device_xiaomi_sm8150-common-U" revision="14.0" />
   <project path="vendor/xiaomi" remote="vend" name="proprietary_vendor_xiaomi" revision="14.0" />
   <project path="kernel/xiaomi/vayu" remote="pro" name="android_kernel_xiaomi_vayu" revision="main" />
-  <project path="kernel/xiaomi/sm8150" remote="cr" name="android_kernel_xiaomi_sm8150" revision="14.0" />
+  <project path="kernel/xiaomi/sm8150" remote="momen" name="android_kernel_xiaomi_sm8150_rising" revision="14.0" />
   <project path="hardware/xiaomi" remote="hard" name="hardware_xiaomi" revision="udc" />
   
   
