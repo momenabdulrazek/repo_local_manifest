@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="momen" fetch="https://github.com/momenabdulrazek/" />
+<remote name="cr" fetch="https://github.com/crdroidandroid/" />
+<remote name="pro" fetch="https://github.com/dogpoopy/" />
+<remote name="vend" fetch="https://gitlab.com/crdroidandroid/" />
+  <remote name="hard" fetch="https://github.com/Evolution-X/" />
+  <project path="device/xiaomi/vayu" remote="momen" name="android_device_xiaomi_vayu-evo" revision="rising14" />
+  <project path="vendor/xiaomi" remote="vend" name="proprietary_vendor_xiaomi" revision="14.0" />
+  <project path="kernel/xiaomi/vayu" remote="pro" name="android_kernel_xiaomi_vayu" revision="main" />
+  <project path="kernel/xiaomi/sm8150" remote="cr" name="android_kernel_xiaomi_sm8150" revision="14.0" />
+  <project path="hardware/xiaomi" remote="hard" name="hardware_xiaomi" revision="udc" />
+  
+  
+</manifest>
